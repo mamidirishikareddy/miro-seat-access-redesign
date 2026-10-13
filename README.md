@@ -8,7 +8,7 @@
 [![Framework](https://img.shields.io/badge/Prioritization-RICE%20%7C%20WSJF-F59E0B?style=for-the-badge)](.)
 [![Status](https://img.shields.io/badge/Status-Case%20Study-10B981?style=for-the-badge)](.)
 
-📄 **[Read the Full Case Study on Notion →](https://app.notion.com/p/MIRO-Enterprise-Access-Billing-Workflow-Redesign-39f5e82851bf806ba6f6d4122a5c3543)**
+📄 **[Read the Full Case Study on Notion →](https://app.notion.com/p/MIRO-Enterprise-Access-Billing-Workflow-Redesign-3f89e054583b8165a40bc03ea00ef325?source=copy_link)**
 
 </div>
 
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-📄 **[View Full Case Study on Notion →](https://app.notion.com/p/MIRO-Enterprise-Access-Billing-Workflow-Redesign-39f5e82851bf806ba6f6d4122a5c3543)**
+📄 **[View Full Case Study on Notion →](https://app.notion.com/p/MIRO-Enterprise-Access-Billing-Workflow-Redesign-3f89e054583b8165a40bc03ea00ef325?source=copy_link)**
 
 *Built as part of an independent product management case study*
 
